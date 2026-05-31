@@ -50,7 +50,7 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/52500.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1",025. NEXUS TV
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/411.ts
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla" tvg-server="Server 1",026. Mohona TV
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/397.ts
+http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/397
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png" group-title="Bangla" tvg-server="Server 1",027. Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4G-Aw-9Y2BiYRKQWIkTYWMp68o1XFiPn67SiKacsElkUnizh-75w9jLV7DKZWa6D4C5W8aicYA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla" tvg-server="Server 1",028. Ekushey TV
@@ -66,7 +66,7 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla" tvg-server="Server 1",033. Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1",034. Boishakhi TV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/566.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/390.ts
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla" tvg-server="Server 1",035. Bijoy TV
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/408.ts
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Bangla" tvg-server="Server 1",036. BanglaVision
@@ -118,7 +118,7 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",059. PTV Sports
 http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/61674
 #EXTINF:-1 tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports" tvg-server="Server 1",060. Sky Sports Cricket
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/12.ts
+http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/122412
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png" group-title="Sports" tvg-server="Server 1",061. SONY TEN 1 HD
 http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/9402
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1",062. SONY TEN 2 HD
@@ -136,7 +136,7 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/196347.ts
 #EXTINF:-1 tvg-logo="http://greenpa1.com/tntsports.png" group-title="Sports" tvg-server="Server 1",068. TNT Sports 3
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/148090.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="Sports" tvg-server="Server 1",069. Willow By Cricbuzz
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/215.ts
+http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/5040
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",070. ZEE Bangla HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/23305.ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1",071. ZEE TV HD
@@ -146,7 +146,7 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Indian" tvg-server="Server 1",073. YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Indian" tvg-server="Server 1",074. SUN BANGLA HD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
+http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/3753
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Indian" tvg-server="Server 1",075. Sony Wah
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/4077.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1",076. Sony Entertainment Television
@@ -158,7 +158,7 @@ http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/122411
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",079. Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",080. Nick
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1272.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98880.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="Drama" tvg-server="Server 1",081. HUM MASALA
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/1919.ts
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",082. Cartoon Network
@@ -226,7 +226,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",113. SONY TEN 3 HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/146.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67948806348185268b7261d90535b40c.png" group-title="Kids" tvg-server="Server 1",114. Animax
-http://filex.me:8080//live/03098001921RDB/03098001921RDB/302560.ts
+https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/638099.ts
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports" tvg-server="Server 1",115. Star Sports 2 HD
 http://rgkkw.live:8080/1Aoen7elp5/IgMJ60tmAa/98865
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Sports" tvg-server="Server 1",116. Cricbuzz
