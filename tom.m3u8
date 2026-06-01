@@ -192,11 +192,11 @@ http://103.175.73.12:8080/live/53/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movie" tvg-server="Server 1",096. Goldmines Movies
 http://103.175.73.12:8080/live/51/master.m3u8
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Green-Entertainment-Logo-Vector-1.png" group-title="Drama" tvg-server="Server 1",097. Green HD
-http://filex.me:8080//live/03098001921RDB/03098001921RDB/246611.ts
+https://rgkkw.live:443/live/samsung2861/manager5554/152808.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" group-title="Indian" tvg-server="Server 1",098. SONY PIX HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/9381.ts
 #EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Drama" tvg-server="Server 1",099. HUM HD
-https://rgkkw.live:443/live/samsung2861/manager5554/122
+https://rgkkw.live:443/live/samsung2861/manager5554/122.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1",100. JALSHA MOVIES HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/23304.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1",101. A sports
@@ -207,7 +207,7 @@ http://rgkkw.live:8080/samsung2861/manager5554/101
 http://23.88.66.93/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" group-title="Indian" tvg-server="Server 1",104. Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary" tvg-server="Server 1",105. NAT GEO HD
+#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg" group-title="Documentary" tvg-server="Server 1",105. NAT GEO HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/98874.ts
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1",106. Star Gold Select HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/9376.ts
@@ -221,8 +221,8 @@ https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/124.ts
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/231.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1",111. AlJazeera
 http://103.175.73.12:8080/live/318/318_0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQSnT22f2X9xfPYCVJjtkwxT4SdF5Kb9TwA&s" group-title="English" tvg-server="Server 1",112. BBC World
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="Sports" tvg-server="Server 1",112. SKY SPORT 3
+https://rgkkw.live:443/live/samsung2861/manager5554/24018.ts
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",113. SONY TEN 3 HD
 http://rgkkw.live:8080/samsung2861/manager5554/9404
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67948806348185268b7261d90535b40c.png" group-title="Kids" tvg-server="Server 1",114. Animax
@@ -236,7 +236,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1279.ts
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/45.png" group-title="Kids" tvg-server="Server 1",118. Sony YAY!
 https://edge2.roarzone.net:8447/roarzone/edge3/sonyyay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Kids" tvg-server="Server 1",119. POGO
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/1918.ts
+https://rgkkw.live:443/live/samsung2861/manager5554/7220.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDPpcZCeXBWct9QX4biWeC1t61mq5mpBTPg&s" group-title="Bangla" tvg-server="Server 1",120. CHANNEL ONE NEWS
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangla" tvg-server="Server 1",121. GREEN TV
@@ -247,5 +247,5 @@ http://rgkkw.live:8080/samsung2861/manager5554/211
 https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="Kids" tvg-server="Server 1",124. Cartoon Network HD+
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/117177.ts
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png" group-title="Sports" tvg-server="Server 1",Sky Sports Premier League
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sky_Sports_Premier_League_-_Logo_2025.svg/3840px-Sky_Sports_Premier_League_-_Logo_2025.svg.png" group-title="Sports" tvg-server="Server 1",Sky Sports Premier League
 http://rgkkw.live:8080/samsung2861/manager5554/186604
